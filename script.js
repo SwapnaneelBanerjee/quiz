@@ -115,7 +115,7 @@ const questions = [
     {
         question: 'Who Painted "The Last Supper"?',
         answers: [
-            { text: 'Raphael', correct: true },
+            { text: 'Raphael', correct: false },
             { text: 'Donatello', correct: false },
             { text: 'Michelangelo', correct: false },
             { text: 'Leonardo da Vinci', correct: true }
